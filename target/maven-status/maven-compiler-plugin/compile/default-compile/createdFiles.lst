@@ -1,0 +1,15 @@
+com\demo\profilematcher\entities\Device.class
+com\demo\profilematcher\entities\Campaign.class
+com\demo\profilematcher\ProfileMatcherApplication.class
+com\demo\profilematcher\services\ProfileMatcherServiceImpl.class
+com\demo\profilematcher\entities\Clan.class
+com\demo\profilematcher\entities\Item.class
+com\demo\profilematcher\entities\Level.class
+com\demo\profilematcher\services\CampaignMockedService.class
+com\demo\profilematcher\controllers\ProfileMatcherController.class
+com\demo\profilematcher\repositories\PlayerRepository.class
+com\demo\profilematcher\exceptions\PlayerNotFoundException.class
+com\demo\profilematcher\services\ProfileMatcherService.class
+com\demo\profilematcher\entities\Player.class
+com\demo\profilematcher\exceptions\ConditionsNotMetException.class
+com\demo\profilematcher\entities\Matcher.class
